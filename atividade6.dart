@@ -28,6 +28,6 @@ void main() {
       maior = palpite;
     }
 
-    print('O num ta entre $menor e $maior (sem contar os limites)');
+    print('O num ta entre $menor e $maior ');
   }
 }
